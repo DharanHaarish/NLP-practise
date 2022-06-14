@@ -9,3 +9,5 @@ Basic Syntax - [Spacy_basics](https://github.com/Haarish-dev/NLP-practise/blob/m
 Lemmatization and Stemming of Words with both Nltk and Spacy - [Lemmatization and Stemming](https://github.com/Haarish-dev/NLP-practise/blob/main/Lemmatization_and_Stemming.ipynb)
 
 POS tags and how it can be used to filter a doc or get info of number of tags - [POS(Part of Speech)](https://github.com/Haarish-dev/NLP-practise/blob/main/POS(Part_of_Speech)_tagging.ipynb)
+
+NER(Named Entity Recognition) and how it can be modified - [NER(Named entity Recognition)](https://github.com/Haarish-dev/NLP-practise/blob/main/NER(Named_Entity_Recognition).ipynb)
