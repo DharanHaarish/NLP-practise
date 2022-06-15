@@ -17,3 +17,5 @@ Complete pre-processing pipeline using Spacy - [Preprocessing Pipeline](https://
 Feature Engineering(converting text to numbers):
 
 Bag of Words - [BOW(Bag of Words) and Ngrams-BOW](https://github.com/Haarish-dev/NLP-practise/blob/main/Bag_of_Words.ipynb)
+
+TF-IDF(Term frequency and inverse document frequency) - [TF-IDF(both Ngram and unigram)](https://github.com/Haarish-dev/NLP-practise/blob/main/Tf_idf_Vectorization.ipynb)
