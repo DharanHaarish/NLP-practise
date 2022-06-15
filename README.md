@@ -11,3 +11,5 @@ Lemmatization and Stemming of Words with both Nltk and Spacy - [Lemmatization an
 POS tags and how it can be used to filter a doc or get info of number of tags - [POS(Part of Speech)](https://github.com/Haarish-dev/NLP-practise/blob/main/POS(Part_of_Speech)_tagging.ipynb)
 
 NER(Named Entity Recognition) and how it can be modified - [NER(Named entity Recognition)](https://github.com/Haarish-dev/NLP-practise/blob/main/NER(Named_Entity_Recognition).ipynb)
+
+Complete pre-processing pipeline using Spacy - [Preprocessing Pipeline](https://github.com/Haarish-dev/NLP-practise/blob/main/Complete_Preprocessing_using_Spacy.ipynb)
