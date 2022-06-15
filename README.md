@@ -13,3 +13,7 @@ POS tags and how it can be used to filter a doc or get info of number of tags - 
 NER(Named Entity Recognition) and how it can be modified - [NER(Named entity Recognition)](https://github.com/Haarish-dev/NLP-practise/blob/main/NER(Named_Entity_Recognition).ipynb)
 
 Complete pre-processing pipeline using Spacy - [Preprocessing Pipeline](https://github.com/Haarish-dev/NLP-practise/blob/main/Complete_Preprocessing_using_Spacy.ipynb)
+
+Feature Engineering(converting text to numbers):
+
+Bag of Words - [BOW(Bag of Words)](https://github.com/Haarish-dev/NLP-practise/blob/main/Bag_of_Words.ipynb)
