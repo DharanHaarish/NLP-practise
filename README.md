@@ -2,7 +2,7 @@
 This repository contains the code and notes i am using/used to learn NLP(Natural Language Processing).
 Mainly it contains the basic spacy code syntax used for tokenization, Stemming and Lemmatization and different types of functions that can be used and this repository is created by following NLP playlist of the Codebasic channel.
 
-You can go by this order:
+Text Preprocessing and cleanup:
 
 Basic Syntax - [Spacy_basics](https://github.com/Haarish-dev/NLP-practise/blob/main/Spacy_Basic_Tutorial.ipynb) 
 
