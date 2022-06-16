@@ -6,7 +6,12 @@
 This repository contains the code and notes i am using/used to learn NLP(Natural Language Processing).
 Mainly it contains the basic spacy code syntax used for tokenization, Stemming and Lemmatization and different types of functions that can be used and this repository is created by following NLP playlist of the Codebasic channel.
 
-Text Preprocessing and cleanup:
+
+**General NLP Process Flowchart:**
+
+![NLP Process](https://user-images.githubusercontent.com/78015090/173996678-f3b9ff1d-1819-445c-a246-d5e1d8333c4c.PNG)
+
+**Text Preprocessing and cleanup:**
 
 Basic Syntax - [Spacy_basics](https://github.com/Haarish-dev/NLP-practise/blob/main/Spacy_Basic_Tutorial.ipynb) 
 
@@ -18,7 +23,7 @@ NER(Named Entity Recognition) and how it can be modified - [NER(Named entity Rec
 
 Complete pre-processing pipeline using Spacy - [Preprocessing Pipeline](https://github.com/Haarish-dev/NLP-practise/blob/main/Complete_Preprocessing_using_Spacy.ipynb)
 
-Feature Engineering(converting text to numbers):
+**Feature Engineering(converting text to numbers):**
 
 Bag of Words - [BOW(Bag of Words) and Ngrams-BOW](https://github.com/Haarish-dev/NLP-practise/blob/main/Bag_of_Words.ipynb)
 
